@@ -1,4 +1,4 @@
-# Mi primer código en python 🤠
+# Mi primer código en python 🤠(Reto_02)
 **El código es el siguiente:**
 ~~~
 if __name__ == "__main__" :
