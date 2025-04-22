@@ -31,3 +31,8 @@ Ejecutarlo desde VSCode es bastante mas simple, basta con escribir o pegar el c�
 Como se trata del interprete de python y no de la terminal del pc tuve que escribir el código para que se pudiera ejecutar, sin la necesidad de escribir "python" y modificar el diectoio, pues se ejecuta directamente.
 
 ![Int de python](Caps/cap%20py.png)
+
+**NOMBRE:**Juan Carlos Polania Bolivar.
+**CURSO** Programación de computadores
+![Escudo UNAL](Caps/Escudo.png)
+
