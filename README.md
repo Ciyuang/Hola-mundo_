@@ -32,7 +32,5 @@ Como se trata del interprete de python y no de la terminal del pc tuve que escri
 
 ![Int de python](Caps/cap%20py.png)
 
-**NOMBRE:**Juan Carlos Polania Bolivar.
-**CURSO** Programación de computadores
-![Escudo UNAL](Caps/Escudo.png)
+
 
